@@ -4,7 +4,7 @@
 
 📈 🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛  (140/400 XP)
 
-📚 inteligencia: ‣‣‣‣‣‣‣‣ - 8
+📚 inteligencia:  - 8
 
 💪 Ataque: ‣‣‣‣‣ - 5
 
@@ -25,40 +25,32 @@
 - *Gula*: Ao devorar um inimigo, ele aprende as habilidades e classes
 - *Sopro de Fogo*: Causa 8 de dano em área uma vez por combate.
 - *Aprendizado Simples*: Pode aprender outras habilidades e classes
-- Corpo de ferro: toma menos danos a cortes
-- Esgrima avançada
-- Fortalecimento corporal
-- Bola de fogo
-- Kendo: Arte da Cobra e arte do Tigre
-- Transformações: Ogros, Puta, Cara forte, Padre, criança, servo, coelho, elfo mulher, elfo homem
+- *Corpo de ferro*: toma menos danos a cortes
+- *Esgrima avançada*
+- *Fortalecimento corporal*
+- *Magia de Fogo:* Bola de Fogo
+- *Kendo*: Arte da Cobra e arte do Tigre
+- *Transformações*: Ogros, Puta, Cara forte, Padre, criança, servo, coelho, elfo mulher, elfo homem
 
 ### Mochila
-
 <aside>
-🍞
-
-10 Pães
+🍞 10 Pães
 
 </aside>
 
 <aside>
-🚰
-
-1 Garrafa de agua
+🚰 1 Garrafa de agua
 
 </aside>
 
 <aside>
-🥇
-
-$15
+🥇$15
 
 </aside>
 
-<aside>
-🥈
 
-$90
+<aside>
+🥈$90
 
 </aside>
 
