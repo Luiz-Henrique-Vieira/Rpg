@@ -67,3 +67,5 @@
 ### Titulos
 
 🔗Monarca dos Selamentos
+
+um pequeno teste de sincronização
